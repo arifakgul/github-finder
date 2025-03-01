@@ -1,0 +1,12 @@
+# Sanal ortam dosyaları
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Gizli dosyalar
+.env
+
+# VSCode ve MacOS sistem dosyaları
+.vscode/
+.DS_Store
